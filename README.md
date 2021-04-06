@@ -1,5 +1,5 @@
 # Nick Price - @lostdoco
-##Tl;dr
+## Tl;dr
 - 🏢 Microsoft
 - 🌏 Australia
 
