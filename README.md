@@ -1,4 +1,10 @@
-### Hi there 👋
+# Nick Price - @lostdoco
+##Tl;dr
+- 🏢 Microsoft
+- 🌏 Australia
+
+### Intro
+Hi, I'm Nick - Currently working at Microsoft as a Cloud Solution Architect in Applications & Infrastructure space.
 
 <!--
 **lostdoco/lostdoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
