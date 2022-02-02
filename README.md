@@ -4,7 +4,7 @@
 - 🌏 Australia
 
 ### Intro
-Hi, I'm Nick - Currently working at Microsoft as a Cloud Solution Architect in Applications & Infrastructure space.
+Hi, I'm Nick - Currently working at Microsoft as a Cloud Solution Architect in the Data & Analytics space, previously Applications & Infrastructure.
 
 <!--
 **lostdoco/lostdoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
